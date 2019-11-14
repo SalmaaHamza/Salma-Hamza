@@ -11,7 +11,7 @@ I am a student at Biomedical Engineering department, Cairo University.
 C++ , C , python , R , HTML , CSS , JS and Nodejs
 
 ### Non-technical skills
-Hard worker , Team worker , Presentation skills , Self learning and Time management  
+Hard worker , Team worke , Presentation skills , Self learning and Time management  
 
 ## Courses
 #### Embedded systems Diploma
@@ -19,6 +19,7 @@ Hard worker , Team worker , Presentation skills , Self learning and Time managem
 #### Data structure in python (Online course)
 #### Machine learning workshop 
 #### Medical equipments course
+
 ## Activity 
 #### Public Relation Head at Technical Center for Career Development at Faculty of Engineering, Cairo university
 ####  Fundraising member at Energia powerd (Student activity)
@@ -26,6 +27,6 @@ Hard worker , Team worker , Presentation skills , Self learning and Time managem
 ####  Soft skills member at Black horse (student activity)
 #### PR member at TCCD ( Technical Center for Career Development at Faculty of Engineering, Cairo university)
 
-### researsh interests
-AL 
-IOT
+## researsh interests
+-AL 
+-IOT
