@@ -7,10 +7,10 @@
 I am a student at Biomedical Engineering department, Cairo University.
 
 ## Skills
-### technical skills
+### Technical Skills
 C++ , C , python , R , HTML , CSS , JS and Nodejs
 
-### Non-technical skills
+### Non-Technical Skills
 Hard worker , Team worke , Presentation skills , Self learning and Time management  
 
 ## Courses
@@ -27,6 +27,6 @@ Hard worker , Team worke , Presentation skills , Self learning and Time manageme
 ####  Soft skills member at Black horse (student activity)
 #### PR member at TCCD ( Technical Center for Career Development at Faculty of Engineering, Cairo university)
 
-## researsh interests
--AL 
--IOT
+## Researsh interests
+#### AL 
+#### IOT
