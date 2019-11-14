@@ -1,9 +1,8 @@
-## Welcome to my personal website 
 
 [linkedin](https://www.linkedin.com/in/salma-hamza-a3592816a/)  
-
 [gmail](salmahamza108@gmail.com) 
 
+## Welcome to my personal website 
 I am a student at Biomedical Engineering department, Cairo University.
 
 ## Skills
