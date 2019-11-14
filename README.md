@@ -1,8 +1,8 @@
 ## Welcome to my personal website 
 
-[linkedin] (https://www.linkedin.com/in/salma-hamza-a3592816a/)  
+[linkedin](https://www.linkedin.com/in/salma-hamza-a3592816a/)  
 
-[gmail] (salmahamza108@gmail.com) 
+[gmail](salmahamza108@gmail.com) 
 
 I am a student at Biomedical Engineering department, Cairo University.
 
@@ -11,22 +11,22 @@ I am a student at Biomedical Engineering department, Cairo University.
 C++ , C , python , R , HTML , CSS , JS and Nodejs
 
 ### Non-Technical Skills
-Hard worker , Team worke , Presentation skills , Self learning and Time management  
+Hard worker , Team work , Presentation skills , Self learning and Time management  
 
 ## Courses
-#### Embedded systems Diploma
-#### Web development Full stack workshop 
-#### Data structure in python (Online course)
-#### Machine learning workshop 
-#### Medical equipments course
+##### Embedded systems Diploma
+##### Web development Full stack workshop 
+##### Data structure in python (Online course)
+##### Machine learning workshop 
+##### Medical equipments course
 
 ## Activity 
-#### Public Relation Head at Technical Center for Career Development at Faculty of Engineering, Cairo university
-####  Fundraising member at Energia powerd (Student activity)
-####  Developer member at BEAT ( Student activity )
-####  Soft skills member at Black horse (student activity)
-#### PR member at TCCD ( Technical Center for Career Development at Faculty of Engineering, Cairo university)
+##### Public Relation Head at Technical Center for Career Development at Faculty of Engineering, Cairo university
+#####  Fundraising member at Energia powerd (Student activity)
+#####  Developer member at BEAT ( Student activity )
+#####  Soft skills member at Black horse (student activity)
+##### PR member at TCCD ( Technical Center for Career Development at Faculty of Engineering, Cairo university)
 
 ## Researsh interests
-#### AL 
-#### IOT
+##### AL 
+##### IOT
