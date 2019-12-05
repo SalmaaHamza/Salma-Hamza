@@ -10,6 +10,11 @@ description: A blog about technology and stuff related
 external-image: true
 picture: salma.jpeg
 
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://drive.google.com/file/d/19Oi1HzYxF-m3KbGIbB8xGBzi7f3hmL_b/view?usp=sharing
 
 url: https://salmaahamza.github.io/Salma-Hamza/
 
@@ -31,8 +36,6 @@ disqus:
 facebook: https://www.facebook.com/zezo.zoz.5055
 github: https://github.com/SalmaaHamza
 email: salmahamza108@gmail.com
-
-resume: https://drive.google.com/file/d/19Oi1HzYxF-m3KbGIbB8xGBzi7f3hmL_b/view?usp=sharing
 
 authors:
     johndoe:
