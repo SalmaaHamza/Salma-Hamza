@@ -1,6 +1,6 @@
 # main text of home
-name: Mennatallah Hamdy
-bio: A little programmer project ISA.
+name: Salma Hamza
+bio: Biomedical Engineer.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,10 +8,10 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: menna.jpeg
+picture: Salma.jpeg
 
 
-url: https://mennahamdy33.github.io/mennahamdy/
+url: https://salmaahamza.github.io/Salma-Hamza/
 
 permalink: /:title/
 
@@ -28,10 +28,10 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/manon.hamdy.94
-twitter: MennaTGF
-github: https://github.com/mennahamdy33
-email: menna.h.m.elsayed@gmail.com
+facebook: https://www.facebook.com/zezo.zoz.5055
+#twitter: MennaTGF
+github: https://github.com/SalmaaHamza
+email: salmahamza108@gmail.com
 
 authors:
     johndoe:
