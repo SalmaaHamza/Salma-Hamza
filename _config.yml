@@ -14,7 +14,7 @@ picture: salma.jpeg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/19Oi1HzYxF-m3KbGIbB8xGBzi7f3hmL_b/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1bN_TF-T28jbmzLuxXiJhHbe0V8Y6dE7w/view?usp=sharing
 
 url: https://salmaahamza.github.io/Salma-Hamza/
 
@@ -94,7 +94,7 @@ plugins:
   - jekyll-admin
 
 jekyll-mentions:
-    base_url: https://github.commennahamdy/mennahamdy33.github.io
+    base_url: https://github.com/SalmaaHamza
 
 compress_html:
     ignore:
