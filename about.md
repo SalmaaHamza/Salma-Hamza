@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ https://github.com/SalmaaHamza/Salma-Hamza/blob/master/salma.jpeg }}/{{ salma.jpeg }})
+![Profile Image]({{ https://salmaahamza.github.io/Salma-Hamza/about/ }}/{{ https://drive.google.com/open?id=1DfTB5BA9L8_AR0o2IfHoSANvSvy0Nlhy }})
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
